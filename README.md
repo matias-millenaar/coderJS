@@ -1,4 +1,5 @@
 # coderJS
-Proyecto Final del curso de JavaScript
+CodeHouse's JavaScript course final project.
 
-El proyecto consiste en un simulador de inversiones en criptomonedas, donde el usuario debe ingresar la informacion de sus compras y ventas de distintas monedas para poder seguir el detalle de sus inversiones y retornos.
+The project consists in a cryptocurrency investments simulator, were the user must upload the information of his/her trades of different coins to follow 
+the details of the investment and its returns.
